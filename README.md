@@ -1,14 +1,16 @@
----
+# 👋 Hi, I'm Wasay Ghauri
+
+🚀 **Data Science | AI/ML | Data Analytics | Dashboarding Enthusiast**
 
 ---
 
 ## 🧠 About Me
 
 * 🎓 Computer Science Graduate
-* 📊 Passionate about **Data Science, AI & Analytics**
-* 🛠️ Building **AI-powered tools & dashboards**
-* 📈 Skilled in turning **raw data → actionable insights**
-* 🎯 Goal: Become a **top Data Scientist / AI Engineer**
+* 📊 Passionate about **Data Science, Machine Learning & Analytics**
+* 📈 Love building **dashboards, AI tools & real-world projects**
+* 💡 Currently working on **AI-powered applications & portfolio projects**
+* 🔍 Actively looking for opportunities in **Data Science / Data Analyst roles**
 
 ---
 
@@ -16,55 +18,85 @@
 
 ### 👨‍💻 Languages
 
+* Python 🐍
+* SQL
+* JavaScript
+
 ### 📊 Data & Analytics
+
+* Pandas
+* NumPy
+* Power BI
+* Excel
 
 ### 🤖 Machine Learning
 
+* Scikit-learn
+* TensorFlow (Basics)
+* Model Building & Evaluation
+
 ### 🌐 Development
 
----
-
-## 🚀 Featured Projects
-
-### 🧠 AI Career OS
-
-AI-powered career platform for resume analysis & job matching
-✔ ATS Score Analysis
-✔ Skill Gap Detection
-✔ AI Resume Improvement
+* React.js
+* FastAPI
+* REST APIs
 
 ---
 
-### 📊 Student Performance Prediction
+## 📂 Featured Projects
 
-Machine Learning project to predict student outcomes
-✔ Data Cleaning & EDA
-✔ Feature Engineering
-✔ Model Training
+### 📌GenCV
 
----
+> AI-powered platform for resume analysis, ATS scoring & career guidance
 
-### 📈 HR Analytics Dashboard
-
-Interactive Power BI dashboard
-✔ Employee Insights
-✔ Attrition Analysis
-✔ KPI Tracking
+* Resume parsing & scoring
+* Skill gap analysis
+* AI-based suggestions
 
 ---
 
-## 📊 GitHub Stats
+### 📌 Student Performance Prediction
+
+> Machine Learning model to predict student outcomes
+
+* Data Cleaning & EDA
+* Feature Engineering
+* Model Training
 
 ---
 
-## 🔥 GitHub Streak
+### 📌 HR Analytics Dashboard
+
+> Interactive Power BI dashboard for HR insights
+
+* Employee trends
+* Attrition analysis
+* KPI tracking
 
 ---
 
-## 🏆 Achievements
+## 📈 GitHub Stats
+
+---
+
+## 🔥 Streak Stats
 
 ---
 
 ## 🌐 Connect With Me
 
+* 💼 LinkedIn: *(Add your link here)*
+* 📧 Email: [wasayghauri514@gmail.com](mailto:wasayghauri514@gmail.com)
+* 🌍 Portfolio: *(Add if available)*
+
 ---
+
+## 🎯 Current Goals
+
+* 🚀 Build strong **AI + Data Science portfolio**
+* 📊 Master **advanced analytics & dashboards**
+* 🤖 Work on **real-world AI systems**
+
+---
+
+⭐ *“Turning data into decisions and ideas into reality.”*
