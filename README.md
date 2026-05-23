@@ -45,7 +45,7 @@
 
 ## 📂 Featured Projects
 
-### 📌 GenCV
+### 📌GenCV
 
 > AI-powered platform for resume analysis, ATS scoring & career guidance
 
@@ -77,13 +77,9 @@
 
 ## 📈 GitHub Stats
 
-![Wasay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wasay-514\&show_icons=true\&theme=tokyonight)
-
 ---
 
 ## 🔥 Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Wasay-514\&theme=tokyonight)
 
 ---
 
