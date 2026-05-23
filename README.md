@@ -1,18 +1,70 @@
-<h1 align="center">Hi 👋, I'm Wasay Ghauri</h1>
-<h3 align="center">A passionate data science Enthusiast from Pakistan</h3>
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wasay-514&label=Profile%20views&color=0e75b6&style=flat" alt="wasay-514" /> </p>
+---
 
-- 📫 How to reach me **wasayghauri514@gmail.com**
+## 🧠 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.topcoder.com/members/75550" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="75550" height="30" width="40" /></a>
-</p>
+* 🎓 Computer Science Graduate
+* 📊 Passionate about **Data Science, AI & Analytics**
+* 🛠️ Building **AI-powered tools & dashboards**
+* 📈 Skilled in turning **raw data → actionable insights**
+* 🎯 Goal: Become a **top Data Scientist / AI Engineer**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wasay-514&show_icons=true&locale=en&layout=compact" alt="wasay-514" /></p>
+## 🛠️ Tech Stack
 
-"# wasay-514" 
+### 👨‍💻 Languages
+
+### 📊 Data & Analytics
+
+### 🤖 Machine Learning
+
+### 🌐 Development
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 AI Career OS
+
+AI-powered career platform for resume analysis & job matching
+✔ ATS Score Analysis
+✔ Skill Gap Detection
+✔ AI Resume Improvement
+
+---
+
+### 📊 Student Performance Prediction
+
+Machine Learning project to predict student outcomes
+✔ Data Cleaning & EDA
+✔ Feature Engineering
+✔ Model Training
+
+---
+
+### 📈 HR Analytics Dashboard
+
+Interactive Power BI dashboard
+✔ Employee Insights
+✔ Attrition Analysis
+✔ KPI Tracking
+
+---
+
+## 📊 GitHub Stats
+
+---
+
+## 🔥 GitHub Streak
+
+---
+
+## 🏆 Achievements
+
+---
+
+## 🌐 Connect With Me
+
+---
