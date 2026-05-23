@@ -45,7 +45,7 @@
 
 ## 📂 Featured Projects
 
-### 📌 AI Career OS
+### 📌 GenCV
 
 > AI-powered platform for resume analysis, ATS scoring & career guidance
 
