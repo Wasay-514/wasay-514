@@ -87,7 +87,7 @@
 
 * 💼 LinkedIn: *(Add your link here)*
 * 📧 Email: [wasayghauri514@gmail.com](mailto:wasayghauri514@gmail.com)
-* 🌍 Portfolio: *(Add if available)*
+* 🌍 Portfolio:
 
 ---
 
