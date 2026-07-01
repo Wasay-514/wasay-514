@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Wasay Ghauri
+# 👋 Hi, I'm Abdul Wasay
 
 🚀 **Data Science | AI/ML | Data Analytics | Dashboarding Enthusiast**
 
